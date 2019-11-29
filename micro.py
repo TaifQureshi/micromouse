@@ -1,5 +1,6 @@
 import numpy as np
 import time
+import pigpio
 
 #fornt sensor
 def dis_front(wall_f):
