@@ -8,7 +8,7 @@ The maze is made up of a 16×16 grid of cells, each 180 mm square with walls 50 
 # Requirement
 Python 3.7,Raspberry pi
 
-# Package use(Python)
+# Package use (Python)
 Numpy, time
 
 # Overview
